@@ -12,7 +12,7 @@ I'm a recent graduate of the class of 2024, and I have been learning coding and 
 * 🤝  I'm open to collaborating on Gen-AI, Open-ai
 * ⚡  I'm a Batman 🦇
 
-### Skills
+### I'n into this
 
 
 <p align="left">
