@@ -12,9 +12,6 @@ I'm a recent graduate of the class of 2024, and I have been learning coding and 
 * 🤝  I'm open to collaborating on Gen-AI, Open-ai
 * ⚡  I'm a Batman 🦇
 
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
-
 ### Skills
 
 
